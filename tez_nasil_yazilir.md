@@ -6,7 +6,7 @@
   * kullanılan yöntemin başlıca adımları
   * elde ettiğiniz sonuçlar
   * bu bölüm en az 1, en fazla 2 sayfa olmalıdır.
-* **giriş bölümü: **
+* **giriş bölümü:**
   * problem nedir? problemin tanımı
   * benzer projeler var mı? özellikleri neler? benzer projelerin eksik yanları var mı? (literatür)
   * siz ne yaptınız, kısaca açıklayınız
