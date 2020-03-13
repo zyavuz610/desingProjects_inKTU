@@ -1,4 +1,4 @@
-## problemin amacı
+## projenin amacı
 bir turist veya yerel insanlar şehre gittiğinde hiç kimseye ihtiyaç duymadan o şehri gezebilmeli, işini görebilmelidir.
 
 ## nasıl bir uygulama
